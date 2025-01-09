@@ -1,14 +1,3 @@
----
-title: Teoría del árbol con particionamiento recursivo binario
-author: Javier Carela
-date: 10/2024
-output:
-  prettydoc::html_pretty:
-    theme: tactile
-    highlight: github
-    toc: yes
-    toc_depth: 3
----
 
 # Introducción
 
